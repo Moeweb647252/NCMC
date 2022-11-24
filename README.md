@@ -1,0 +1,2 @@
+# NCMC
+Terminal NeteaseCloudMusic Client
